@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a51b6105-f24a-46ce-8fb2-5c62a25aec03" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/uml/70a1124b1bdcf68cf41aa6bd75c772ab.uml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/uml/f9c0a3f22b87ac41771ecda270f82089.uml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uml/70a1124b1bdcf68cf41aa6bd75c772ab.uml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uml/f9c0a3f22b87ac41771ecda270f82089.uml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blog.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2017/06/15/오키나와-반할지도.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/js/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/js/respond.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/uml/70a1124b1bdcf68cf41aa6bd75c772ab.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uml/70a1124b1bdcf68cf41aa6bd75c772ab.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/img/70a1124b1bdcf68cf41aa6bd75c772ab.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-06-15-오키나와-반할지도.md" afterPath="$PROJECT_DIR$/_posts/2017-06-15-오키나와-반할지도.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/06/15/오키나와-반할지도.html" afterPath="$PROJECT_DIR$/_site/2017/06/15/오키나와-반할지도.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+              <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -66,25 +54,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-06-15-오키나와-반할지도.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-06-15-오키나와-반할지도.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-06-15-오키나와-반할지도.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <first_editor relative-caret-position="160">
+                <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -96,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-320">
-              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+              <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -107,16 +82,42 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
               <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+              <folding>
+                <marker date="1497612938152" expanded="true" signature="2186:4824" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="2211:4813" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="2294:4803" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="2338:2502" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="2372:2489" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="2547:4697" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="2586:4684" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="2612:3685" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="2662:3668" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="2694:3627" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="3723:4659" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="3774:4642" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="3807:4601" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="4742:4792" ph="..." />
+                <marker date="1497612938152" expanded="true" signature="4754:4779" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="70a1124b1bdcf68cf41aa6bd75c772ab.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asset/img/70a1124b1bdcf68cf41aa6bd75c772ab.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -135,8 +136,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="420">
+              <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -156,9 +157,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/about.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-06-15-오키나와-반할지도.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -211,7 +212,11 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="_site">
+            <PATH_ELEMENT USER_OBJECT="asset">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="img">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -229,7 +234,17 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="uml">
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="blog">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="_posts">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -258,6 +273,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asset/img" />
+    </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
     <UpdatedFiles>
@@ -462,7 +482,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497474792323</updated>
-      <workItem from="1497474793940" duration="8238000" />
+      <workItem from="1497474793940" duration="9439000" />
     </task>
     <task id="LOCAL-00001" summary="uml test">
       <created>1497564943195</created>
@@ -471,11 +491,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497564943195</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="_site pregen">
+      <created>1497577875868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1497577875868</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8238000" />
+    <option name="totallyTimeSpent" value="9439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="24" width="1916" height="2136" extended-state="4" />
@@ -508,7 +535,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uml test" />
-    <option name="LAST_COMMIT_MESSAGE" value="uml test" />
+    <MESSAGE value="_site pregen" />
+    <option name="LAST_COMMIT_MESSAGE" value="_site pregen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -558,29 +586,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-15-오키나와-반할지도.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -588,7 +597,7 @@
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-320">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -597,15 +606,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding />
+          <folding>
+            <marker date="1497612938152" expanded="true" signature="2186:4824" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="2211:4813" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="2294:4803" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="2338:2502" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="2372:2489" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="2547:4697" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="2586:4684" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="2612:3685" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="2662:3668" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="2694:3627" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="3723:4659" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="3774:4642" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="3807:4601" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="4742:4792" ph="..." />
+            <marker date="1497612938152" expanded="true" signature="4754:4779" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/img/70a1124b1bdcf68cf41aa6bd75c772ab.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-15-오키나와-반할지도.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="160">
+            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
